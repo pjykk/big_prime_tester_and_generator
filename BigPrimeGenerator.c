@@ -557,7 +557,7 @@ int main()
     printf("BIT should be an integer within [2, 1024] and COUNT should be an integer for at least 1.\n");
     printf("It may take from less than 1 second to over 15 seconds to generate a single prime. Please wait patiently.\n");
 
-    printf("If you want to end this program (not when producing primes), input -end- (without slashes).");
+    printf("If you want to end this program (not when producing primes), input -end- (without slashes).\n");
 
     printf("Please follow the input formats strictly. Other inputs may cause unexpected problems.\n\n");
 
